@@ -149,7 +149,7 @@ body::after {
 /* end of hero section  */
 
 /* for mobile */
-@media (max-width: 500px) {
+@media (max-width: 800px) {
   body {
     text-align: center;
     overflow-x: hidden;
